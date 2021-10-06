@@ -2,4 +2,6 @@
 
 This gallary look like this --- 
 
+See this on live here is the link --- https://sazidhabib.github.io/image-gallary/
+
 ![screencapture-file-C-Users-Sazid-AppData-Local-Temp-Rar-EXa16764-6182-image-gallary-html-2020-11-30-12_18_55](https://user-images.githubusercontent.com/68610034/136229613-a117ff6c-887e-4d8e-aaa2-e8bf5805e6f2.png)
